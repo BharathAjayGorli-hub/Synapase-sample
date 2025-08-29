@@ -1,5 +1,0 @@
-print("automation")
-print("FROM")
-print("SYNAPSE")
-print("TO")
-print("fabric")
